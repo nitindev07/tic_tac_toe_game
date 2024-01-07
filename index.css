@@ -7,7 +7,10 @@ body{
     background-color: #548687;
     text-align: center;
     position: relative;
-    margin-top: 4vh;
+}
+
+.main{
+    padding-top: 4vh ;
 }
 
 .container{
